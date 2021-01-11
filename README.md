@@ -4,6 +4,8 @@ Adblocker (Removes ads from anywhere).
 Go to Your Chrome Extensions And Now On Your Developer Option and click Load Unpacked Option.
 
 ![ADBLOCK](https://user-images.githubusercontent.com/49250151/104168962-0806fc80-5429-11eb-8d3f-dccf484eaba5.JPG)
+![ADBlock](https://user-images.githubusercontent.com/49250151/104190956-0c421280-5447-11eb-94db-e88b928ce4be.JPG)
+
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
