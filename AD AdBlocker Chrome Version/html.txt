@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+<title>Home</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+
+<div>
+
+	<button id="playPauseBTN" onclick="playPause()">Play ►</button>
+	 
+	 
+	<button onclick="stop()">Stop ▋</button>
+</div>
+
+
+
+<script src="js/AD.js"></script>
+</body>
+</html>
